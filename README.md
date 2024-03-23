@@ -1,1 +1,1 @@
-# Doubly-linked-list-in-c-
+This is an example implementation of doubly linked list and its operations in c++.
